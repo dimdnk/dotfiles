@@ -1,0 +1,21 @@
+[user]
+    name = Dima Denisenko
+    email = "1253839+dimdnk@users.noreply.github.com"
+[core]
+    longpaths = true
+    autocrlf = input
+    eol = lf
+    ignorecase = false
+    editor = nano
+    excludesfile = ~/.config/git/ignore
+[filter "lfs"]
+    required = true
+    clean = git-lfs clean -- %f
+    smudge = git-lfs smudge -- %f
+    process = git-lfs filter-process
+[commit]
+    gpgsign = true
+[tag]
+    gpgsign = true
+[init]
+    defaultBranch = dev
