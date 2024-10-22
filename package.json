@@ -1,5 +1,5 @@
 {
-  "name": "@dimdnk/dotfiles",
+  "name": "@dmitriidaro/dotfiles",
   "version": "24.0.0",
   "description": "Provide an optional Git commit hooks.",
   "private": true,
