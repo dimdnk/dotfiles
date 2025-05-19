@@ -8,4 +8,5 @@ This Repository **dotfiles** contains my personal config files. Here you'll find
 I created them as free resources for your specific use cases.
 
 ### Extra
+
 - [Awesome Dotfiles](https://github.com/webpro/awesome-dotfiles)
