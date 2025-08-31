@@ -187,3 +187,4 @@ cmake-build-*/
 atlassian-ide-plugin.xml
 
 CLAUDE.local.md
+.release-it.json
